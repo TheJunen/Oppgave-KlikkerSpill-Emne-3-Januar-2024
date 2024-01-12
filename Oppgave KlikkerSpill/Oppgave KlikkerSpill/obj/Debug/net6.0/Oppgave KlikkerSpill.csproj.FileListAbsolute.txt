@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\bin\Debug\net6.0\Oppgave KlikkerSpill.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\bin\Debug\net6.0\Oppgave KlikkerSpill.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\bin\Debug\net6.0\Oppgave KlikkerSpill.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\bin\Debug\net6.0\Oppgave KlikkerSpill.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\bin\Debug\net6.0\Oppgave KlikkerSpill.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\refint\Oppgave KlikkerSpill.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\Oppgave KlikkerSpill.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Oppgave KlikkerSpill\Oppgave KlikkerSpill\obj\Debug\net6.0\ref\Oppgave KlikkerSpill.dll
